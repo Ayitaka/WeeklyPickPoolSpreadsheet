@@ -1,8 +1,8 @@
 # WeeklyPickPoolSpreadsheet
 
-WeeklyPickPoolSpreadsheet is an Excel spreadsheet for tracking people, their picks, and outcomes of games (generally NFL, but it could easily be used for other head-to-head sports) for a Weekly Pick'em Pool. It automates some of the more mundane aspects of keeping track of a Pick'em Pool, like counting how many correct picks each person has made and highlighting the winning person/people at the end of the week based on total correct picks or, in the case of a tie, showing which person had the closest (+/-) pick for the total "points" for a final game. It also makes entering people's picks easier by highlighting missing picks and invalid/misspelled picks.
+WeeklyPickPoolSpreadsheet is an Excel spreadsheet for tracking people, their picks, and outcomes of games (generally NFL, but it could easily be used for other head-to-head sports) for a Weekly Pick'em Pool. Just enter the shorthand names for competing teams, names of your players in the pool, and their picks, After that, it automates some of the more mundane aspects of keeping track of a Pick'em Pool. Like counting how many correct picks each person has made, highlighting the winning person/people at the end of the week based on total correct picks or, in the case of a tie, showing which person had the closest (+/-) pick for the total "points" for a final game. It also makes entering people's picks easier by highlighting missing picks and invalid/misspelled picks.
 
-For Weekly Pick sheets, I use [PrintYourBrackets](https://www.printyourbrackets.com/nflweekly.html)
+For Weekly Pick sheets, I use [PrintYourBrackets](https://www.printyourbrackets.com/nflweekly.html) (No affiliation).
 
 Notes:
 - This spreadsheet was created using Microsoft 365 Excel.
