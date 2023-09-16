@@ -1,8 +1,12 @@
 # WeeklyPickPoolSpreadsheet
 
-Created using Microsoft 365 Excel.
+WeeklyPickPoolSpreadsheet is an Excel spreadsheet for tracking people, their picks, and outcomes of games (generally NFL, but it could easily be used for other head-to-head sports) for a Weekly Pick'em Pool. It automates some of the more mundane aspects of keeping track of a Pick'em Pool, like counting how many correct picks each person has made and highlighting the winning person/people at the end of the week based on total correct picks or, in the case of a tie, showing which person had the closest (+/-) pick for the total "points" for a final game. It also makes entering people's picks easier by highlighting missing picks and invalid/misspelled picks.
 
-Does not use any VBA, only built-in functions, formulas, and conditional formatting.
+For Weekly Pick sheets, I use [PrintYourBrackets](https://www.printyourbrackets.com/nflweekly.html)
+
+Notes:
+- This spreadsheet was created using Microsoft 365 Excel.
+- It does not use any VBA, only built-in functions, formulas, and conditional formatting.
 
 Basic Features
 ==============
@@ -24,17 +28,22 @@ Conditional Formatting Features
 
 Screenshots
 ===========
-Entering names and picks. Highlights typoed/wrong entries in red and missing entries in yellow:
+### Entering names and picks.
+* Highlights misspelled/invalid entries in red and missing entries in yellow:
 <p align="center">
   <img src="https://raw.githubusercontent.com/Ayitaka/WeeklyPickPoolSpreadsheet/main/Screenshots/WeeklyPickPoolSpreadStartMissingAndMisspelled.png" alt="Screenshot" />
 </p>
 
-Halfway through a week's games. "Correct" picks highlighted in soft green. "Incorrect" pics highlighted in soft red. Highest "Correct" count highlighted in soft green in last column.
+### Halfway through a week's games.
+* "Correct" picks highlighted in soft green.
+* "Incorrect" pics highlighted in soft red.
+* Highest "Correct" count highlighted in soft green in last column.
 <p align="center">
   <img src="https://raw.githubusercontent.com/Ayitaka/WeeklyPickPoolSpreadsheet/main/Screenshots/WeeklyPickPoolSpreadSheetHalfway.png" alt="Screenshot" />
 </p>
 
-Final entries as well as Monday night's points. Winner's name and points highlighted in green.
+### Final entries as well as Monday night's points.
+* Winner's name and points highlighted in green.
 <p align="center">
   <img src="https://raw.githubusercontent.com/Ayitaka/WeeklyPickPoolSpreadsheet/main/Screenshots/WeeklyPickPoolSpreadSheetFinal.png" alt="Screenshot" />
 </p>
